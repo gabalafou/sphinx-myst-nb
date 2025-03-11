@@ -1,3 +1,5 @@
+Context: https://github.com/pydata/pydata-sphinx-theme/pull/1765#issuecomment-2712351788
+
 To run this repo:
 
 ```sh
